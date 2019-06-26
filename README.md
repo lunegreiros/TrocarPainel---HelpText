@@ -1,0 +1,1 @@
+# TrocarPainel-HelpText
